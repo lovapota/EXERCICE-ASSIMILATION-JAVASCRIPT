@@ -23,13 +23,17 @@ button:hover{
     background-color:#117a65;
 }
 .actions{
-    margin: 10px 0;
+    margin: 30px 0;
     display: flex;
     justify-content: center;
 }
 input{
     border-radius: 5px;
     border: 1px solid #154360;
+}
+/*Page en */
+.wrapper{
+    margin-top: 100px;
 }
 /*Liste ajouter*/
 li{
@@ -41,6 +45,7 @@ li{
 }
 li p{
     font-size: 20px;
+    font-weight: 600;
     margin-right: 10px;
     font-family: 'Poppins';
 }
